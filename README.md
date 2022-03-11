@@ -2,7 +2,7 @@
 - 👀 I’m interested in building websites
 - 🌱 I’m currently learning python
 - 🤝Connect me in Linkedin : https://www.linkedin.com/in/buhari-sayed/
-- Portfolio Website : https://buharisayed.github.io/Buhari_Sayed/
+- 😎Portfolio Website : https://buharisayed.github.io/Buhari_Sayed/
 
 
 <!---
