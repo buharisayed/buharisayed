@@ -1,11 +1,32 @@
-- 👋 Hi, I’m @buharisayed
-- 👀 I’m interested in building websites
-- 🌱 I’m currently learning python
-- 🤝Connect me in Linkedin : https://www.linkedin.com/in/buhari-sayed/
-- 😎Portfolio Website : https://buharisayed.github.io/Buhari_Sayed/
+<h1> About Me 😎</h1>
+<p> I'm <strong> Buhari Sayed </strong>I'm a <strong> full stack developer </strong><br>
+
+I really enjoy learning new technologies👩‍💻 and experimenting 🥼 them.Till now Ihave learnt React JS, Python, Django,Javascript and PHP  <br>
+
+Other than tech world i love learning🏫 and talking🗣 about cultures,religions,philosophies and I love Anthroplogy.<br>
+
+I also love reading📚 mostly thriller/mystery fictions and currently im trying to divert my interest to Non Fictions<br> 
 
 
-<!---
-buharisayed/buharisayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy experimenting with new operating systems. So far, I've tried the following:
+
+• Windows XP/7/8/10 
+• Windows server 2012 R2 
+• RHEL 5
+• UBUNTU
+• MINT OS
+• POP OS
+• MANJARO
+• KALI LINUX</p><br>
+
+<div align="center" dir="auto">
+
+
+<a href="https://www.linkedin.com/in/buhari-sayed/" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+ 
+
+
+</div>
+
+
