@@ -23,10 +23,11 @@ I enjoy experimenting with new operating systems. So far, I've tried the followi
 
 
 <a href="https://www.linkedin.com/in/buhari-sayed/" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="buhari-sayed" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://om.linkedin.com/in/buhari-sayed?trk=profile-badge">Buhari Sayed👨💻</a></div>
+              
  
 
 
 </div>
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
