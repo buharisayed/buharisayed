@@ -8,6 +8,7 @@ Furthermore, my extensive background in Linux and networking has proven to be in
 
 Beyond my hands-on experience, I'm proud to hold several certifications that reflect my commitment to continuous learning and professional development. These certifications include:
 
+- Ecommerce Fundamentals(Issued Oct 2023)
 - Drupal 9 Essential Training: 1 Introduction and Administration (Issued Oct 2023)
 - Drupal 9 Essential Training: 2 Content and Fields (Issued Oct 2023)
 - React.js Essential Training (Issued Oct 2023)
